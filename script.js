@@ -1,4 +1,4 @@
-const SCRIPT_URL = "URL_GOOGLE_APPS_SCRIPT_ANDA";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbysyDAEI98iBKOS133NRVCdXpF-qGl13R__sKe_zBM4GJG2ELEBmMJ08K03hU8p1Qay/exec";
 
 const form = document.getElementById("registrationForm");
 const submitButton = document.getElementById("submitButton");
